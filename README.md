@@ -9,5 +9,4 @@
 - 📫 Ponte en contacto: italolobotorres@gmail.com
 - 👉🏽Tambien puedes seguirme en http://www.linkedin.com/in/italohlt
 
-<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
-<span class="iconify" data-icon="grommet-icons:figma" data-inline="false"></span>
+<p align = "left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon /master/icons/csharp/csharp-original.svg "alt =" csharp "width =" 40 "height =" 40 "/> </a>
