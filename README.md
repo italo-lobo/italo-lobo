@@ -4,6 +4,6 @@
 
 
 - 🔭 Me encuentro trabajando en C# y JavaScript.
-- 👨🏽‍💻 En busqueda de mi primera experiencia en el mundo IT
-- 📫 Ponte en contacto: contacto@italolobo.com.ar
+- 👨🏽‍💻 Trabajando en Machine Learning y Business Analytics.
+- 📫 Ponte en contacto conmigo: contacto@italolobo.com.ar
 - 👉🏽Tambien puedes seguirme en http://www.linkedin.com/in/italohlt
